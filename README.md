@@ -1,6 +1,6 @@
-# She Sphere Hub 🌸
+# SheSphere-Hub 🌸
 
-## 🚀 Project Overview
+## Project Overview
 
 **She Sphere Hub** is an innovative, women-focused platform designed to empower and connect women through an interactive **peer-to-peer marketplace** and **specialized group-tailored chatbot support**.  
 It serves as a safe and inclusive digital environment where women can share resources, access services, and engage in meaningful community conversations tailored to their unique needs and experiences.
